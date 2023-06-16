@@ -3,6 +3,8 @@
 :root {
     --cor-de-fundo: #ebecee;
     --branco: #FFFFFF;
+    --laranja: #eb9b00;
+    --azull-degrade: linear-gradient(97.54)
 }
 body {
     background-color: var(--cor-de-fundo);
